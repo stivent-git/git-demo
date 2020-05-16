@@ -1,0 +1,8 @@
+body{
+    background: red;
+}
+#root{
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
