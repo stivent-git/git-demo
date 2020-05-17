@@ -2,7 +2,7 @@ body{
     background: red;
 }
 #root{
-    height: 1000px;
+    height: 100px;
     width: 1000px;
     background: blue;
 }
